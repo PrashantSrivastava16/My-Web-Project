@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=https://fonts.googleapis.com/css?family=Architects Daughter);
+html, body{
+
+    background-image: url(./background1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Architects Daughter';
+}
+.btnN{
+    background-color: transparent;
+    color: white;
+    margin-top: 7px;
+    border: none;
+    outline: none;}

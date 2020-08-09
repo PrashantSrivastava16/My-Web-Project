@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Ceviche One);
+.names{
+    font-family: 'Ceviche One'!important;
+    font-size: 25px !important;
+    font-weight: bold !important;
+}
+.feature-head{
+    margin-top: 25px;
+    text-shadow: "10px" ;
+    text-align: center;
+    font-size: 25px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    opacity: 0.9;
+    font-family: 'Bangers';
+    z-index: -1;}
